@@ -81,4 +81,5 @@ A recommended template for a single paper is as follows:
 2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
 3. What is the benefit for all these efforts?
 
-
+## Contact
+If you have any questions, please contact REN Yi, by WeChat or [Email](mailto:renyi1006@gmail.com). Any suggestions or questions are welcome!
