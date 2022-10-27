@@ -78,6 +78,8 @@ A recommended template for a single paper is as follows:
 
 ## QA
 ## Content Related
+1. How can I get DOI for my paper?
+2. How can I get the image link for my paper, with a image on my computer locally?
 
 ## Submission Form Related
 1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
