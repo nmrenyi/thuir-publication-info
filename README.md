@@ -26,7 +26,7 @@ Here are some basic steps to submit your publication info:
 2. Add your own YAML file with your publication information in it.
 3. Commit and push your changes to your own repository.
 4. Raise a Pull Request to this repository.
-5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the master branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
+5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
 ## YAML File for Publication Info
 Here is an example of YAML file for publication info:
