@@ -77,5 +77,8 @@ A recommended template for a single paper is as follows:
 ```
 
 ## QA
+1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
+2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
+3. What is the benefit for all these efforts?
 
 
