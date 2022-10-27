@@ -89,6 +89,7 @@ A recommended template for a single paper is as follows:
 2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
   - Certainly you can modify your information and insert more afterwards. If you're quite in a hurry these days, you may just submit DOI number for your papers. If spare, however, submitting DOI, image and GitHub repository link in one shot is still suggested.
 3. What is the benefit for all these efforts?
+  - Build a professional website for THUIR, which benefits everyone, including yourself.
 
 ## Contact
 If you have any questions, please contact REN Yi, by WeChat or [Email](mailto:renyi1006@gmail.com). Any suggestions or questions are welcome!
