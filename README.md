@@ -4,6 +4,17 @@ These days we've been working on constructing a website for THUIR. Here's the [d
 
 Now we're working on the publication collection, which needs everyone to submit their publication list in a pre-defined manner, if any. A demo for publication page is available [here](https://thuir.github.io/lab-website-template/publications/). 
 
+![publication-illustration](_fig/publication-illustration.jpeg)
+
+The image above shows the basic layout of the publication page. Publications are categorizd by year, descendingly. Each publication is represented by a block, which contains the following components:
+1. Title
+2. Author List
+3. Conference/Journal
+4. Publication Date
+5. Tags
+6. Other Links (like GitHub link to your paper code, website for your paper, etc.)
+
+
 
 ## Steps to Submit Publication Info
 
