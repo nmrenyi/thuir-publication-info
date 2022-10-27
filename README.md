@@ -79,6 +79,7 @@ A recommended template for a single paper is as follows:
 ## QA
 ## Content Related
 1. How can I get DOI for my paper?
+   - On ACM Digital Library website or arXiv.
 2. How can I get the image link for my paper, with a image on my computer locally?
 
 ## Submission Form Related
