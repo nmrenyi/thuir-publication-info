@@ -17,6 +17,6 @@ The image above shows the basic layout of the publication page. Publications are
 
 Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. Other information, like tags, links and pictures are optional (but recommended if possible). Steps to submit publication info is illustrated in the following section.
 
-## Steps to Submit Publication Info
+## Submission Guide
 
 
