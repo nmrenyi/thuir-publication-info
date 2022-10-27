@@ -70,9 +70,9 @@ This example seems to be complicated, but the ONLY compulsory item is the `id` f
 
 A recommended template for a single paper is as follows:
 ```yaml
-- id: doi:10.1371/journal.pcbi.1007128  # compulsory
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2  # optional, but recommended
-  repo: greenelab/meta-review  # optional, but recommended, stands for https://github.com/greenelab/meta-review
+- id: doi:10.1145/3331184.3331192
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
+  repo: chenchongthu/ENMF
 
 ```
 
