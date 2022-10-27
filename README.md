@@ -28,5 +28,8 @@ Here are some basic steps to submit your publication info:
 4. Raise a Pull Request to this repository.
 5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the master branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
+## Publication YAML File
+
+## QA
 
 
