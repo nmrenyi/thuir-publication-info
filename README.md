@@ -19,19 +19,6 @@ Although seven parts are displayed in this block, we do not need to fill them al
 
 Steps to submit publication info is illustrated in the following section.
 
-## Submission Guide
-To ensure convenience of both fellows and website maintainers, we decide to use **Pull Request** to submit publication info. Pull Request is a powerful feature of GitHub collaboration. If you are not familiar with it, Google must be your strong backup! 
-
-Here are some basic steps to submit your publication info:
-
-1. Fork this repository to your own GitHub account.
-2. Add your own YAML file with your publication information in it.
-   - Your YAML file should be named as `<name><the-year-you-enter-THUIR><phd/master>.yaml`, like `chenchong2017phd.yaml`.
-   - Your YAML file should be placed in the folder `info/`.
-3. Commit and push your changes to your own repository.
-4. Raise a Pull Request to this repository.
-5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
-
 ## YAML File for Publication Info
 Here is an example of YAML file for publication info:
 ```yaml
@@ -79,6 +66,19 @@ A recommended template for a single paper is as follows:
   repo: chenchongthu/ENMF
 
 ```
+
+## Submission Guide
+To ensure convenience of both fellows and website maintainers, we decide to use **Pull Request** to submit publication info. Pull Request is a powerful feature of GitHub collaboration. If you are not familiar with it, Google must be your strong backup! 
+
+Here are some basic steps to submit your publication info:
+
+1. Fork this repository to your own GitHub account.
+2. Add your own YAML file with your publication information in it.
+   - Your YAML file should be named as `<name><the-year-you-enter-THUIR><phd/master>.yaml`, like `chenchong2017phd.yaml`.
+   - Your YAML file should be placed in the folder `info/`.
+3. Commit and push your changes to your own repository.
+4. Raise a Pull Request to this repository.
+5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
 ## QA
 ## Content Related
