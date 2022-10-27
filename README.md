@@ -85,8 +85,7 @@ A recommended template for a single paper is as follows:
 2. How can I get the image link for my paper, with a image on my computer locally?
    - First, get a screenshot of your paper so that it can be an illustrative as well as representative. A screenshot of your main model may be a good choice.
    - Second, square it since the frame for paper picture is square. With an non-square picture, the display could be weird. Squaring an image could be achieved easily by [this website](https://squaremyimage.com).
-   - Third, upload the picture to a picture bed, so that you can get a public link for it, which can be used in the `image` field. A starter friendly picture bed is [here](https://smms.app). Be sure to use the **Image URL** rather than links in other tabs.
-
+   - Third, upload the picture to a picture bed, so that you can get a public link for it, which can be used in the `image` field. A starter friendly picture bed is [here](https://smms.app). Be sure to use the **Image URL** rather than links in other tabs. ![image-url](_fig/pic-bed-pic-url.png)
 
 ## Submission Form Related
 1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
