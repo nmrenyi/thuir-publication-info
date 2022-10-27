@@ -66,7 +66,7 @@ Here is an example of YAML file for publication info:
       text: Analyses source
 
 ```
-This example could be accessed at [TODO](). The ONLY compulsory item is the `id` field, which is the DOI of your paper. Other fields are optional. Some fields, however, are recommended, if possible. `image` is recommended, since it will be displayed in the publication block.
+This example could be accessed at [TODO](). The ONLY compulsory item is the `id` field, which is the DOI of your paper. `image` and `repo` are recommended since without your image link, the default image for your paper is quite ordinary, and `repo` is essential for research reproducibility.
 
 A recommended template for a single paper is as follows:
 ```yaml
