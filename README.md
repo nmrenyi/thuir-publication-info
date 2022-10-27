@@ -64,6 +64,8 @@ A recommended template for a single paper is as follows:
   repo: chenchongthu/ENMF
 
 ```
+It is quite an easy way out for adding a paper, with the corresponding layout shown below:
+![enmf-block-demo](_fig/publication-enmf-block.png)
 
 ## Submission Guide
 To ensure convenience of both fellows and website maintainers, we decide to use **Pull Request** to submit publication info. Pull Request is a powerful feature of GitHub collaboration. If you are not familiar with it, Google must be your strong backup! 
