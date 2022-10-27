@@ -6,7 +6,7 @@ Now we're working on the publication collection, which needs everyone to submit 
 
 ![publication-illustration](_fig/publication-illustration.jpeg)
 
-The image above shows the basic layout of the publication page. Publications are categorizd by year, descendingly. Each publication is represented by a block, which contains the following components:
+The image above shows the basic layout of the publication page. Publications are categorized by year, descendingly. Each publication is represented by a block, which contains the following components:
 1. Title
 2. Author List
 3. Conference/Journal
