@@ -18,7 +18,7 @@ The image above shows the basic layout of the publication page. Publications are
 Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. Other information, like tags, links and pictures are optional (but recommended if possible). To be concise, you only need to submit DOI of your paper and the template will get the title, author list, conference/journal, publication date automatically. Adding picture link and GitHub repository link are more than welcome!
 
 ## YAML File for Publication Info
-Here is an example of YAML file for publication info:
+Here is the corresponding YAML file for the layout shown above:
 ```yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
