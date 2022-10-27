@@ -85,6 +85,7 @@ A recommended template for a single paper is as follows:
 
 ## Submission Form Related
 1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
+  - Wenjuanxing is quite a direct way to collect information including files. However, suppose our beloved senior student each has 100+ papers. Then she/he needs to submit the questionnaire for 100 times. Why bother? With pull request collaboration technique, each student only needs to submit one single file containing all the publication information.
 2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
 3. What is the benefit for all these efforts?
 
