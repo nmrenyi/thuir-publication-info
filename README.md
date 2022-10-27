@@ -15,7 +15,9 @@ The image above shows the basic layout of the publication page. Publications are
 6. Other Links (like GitHub link to your paper code, website for your paper, etc.)
 7. Picture of your paper (a model screenshot or any picture you like)
 
-Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. Other information, like tags, links and pictures are optional (but recommended if possible). Steps to submit publication info is illustrated in the following section.
+Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. Other information, like tags, links and pictures are optional (but recommended if possible). To be concise, you only need to submit DOI of your paper and the template will get the title, author list, conference/journal, publication date automatically. Adding picture link and GitHub repository link are more than welcome!
+
+Steps to submit publication info is illustrated in the following section.
 
 ## Submission Guide
 To ensure convenience of both fellows and website maintainers, we decide to use **Pull Request** to submit publication info. Pull Request is a powerful feature of GitHub collaboration. If you are not familiar with it, Google must be your strong backup! 
