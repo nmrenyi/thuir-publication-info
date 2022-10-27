@@ -80,6 +80,8 @@ Here are some basic steps to submit your publication info:
 4. Raise a Pull Request to this repository.
 5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
+***Submission deadline: 29, October, 2022 (19:59:59, Beijing Time)***
+
 ## QA
 ### Content Related
 1. How can I get DOI for my paper?
