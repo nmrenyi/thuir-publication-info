@@ -13,6 +13,7 @@ The image above shows the basic layout of the publication page. Publications are
 4. Publication Date
 5. Tags
 6. Other Links (like GitHub link to your paper code, website for your paper, etc.)
+7. Picture of your paper (a model screenshot or any picture you like)
 
 
 
