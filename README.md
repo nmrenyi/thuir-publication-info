@@ -81,7 +81,7 @@ Here are some basic steps to submit your publication info:
 5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
 ## QA
-## Content Related
+### Content Related
 1. How can I get DOI for my paper?
    - On ACM Digital Library website or arXiv.
 2. How can I get the image link for my paper, with a image on my computer locally?
@@ -89,7 +89,7 @@ Here are some basic steps to submit your publication info:
    - Second, square it since the frame for paper picture is square. With a non-square picture, the display could be weird. Squaring an image could be achieved easily by [this website](https://squaremyimage.com).
    - Third, upload the picture to a picture bed, so that you can get a public link for it, which can be used in the `image` field. A starter friendly picture bed is [here](https://smms.app). Be sure to use the **Image URL** rather than links in other tabs. ![image-url](_fig/pic-bed-pic-url.png)
 
-## Submission Form Related
+### Submission Form Related
 1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
    - Wenjuanxing is quite a direct way to collect information including files. However, suppose our beloved senior student each has 100+ papers. Then she/he needs to submit the questionnaire for 100 times. Why bother? With pull request collaboration technique, each student only needs to submit one single file containing all the publication information.
 2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
