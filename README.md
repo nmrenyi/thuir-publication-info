@@ -15,7 +15,7 @@ The image above shows the basic layout of the publication page. Publications are
 6. Other Links (like GitHub link to your paper code, website for your paper, etc.)
 7. Picture of your paper (a model screenshot or any picture you like)
 
-Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. The template will get the title, author list, conference/journal, publication date automatically. Adding picture link and GitHub repository link are more than welcome!
+Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper.
 
 ## YAML File for Publication Info
 Here is the content of YAML file for [publications in 2019](https://thuir.github.io/lab-website-template/publications/#2019). You can also find this YAML file in [sources-2019.yaml](https://github.com/THUIR/lab-website-template/blob/main/_data/sources-2019.yaml).
