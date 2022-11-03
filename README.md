@@ -53,9 +53,15 @@ Here are some basic steps to submit your publication info:
 1. How can I get DOI for my paper?
    - On ACM Digital Library website or arXiv.
 2. How can I get the image link for my paper, with a image on my computer locally?
-   - First, get a screenshot of your paper so that it can be an illustrative as well as representative. A screenshot of your main model may be a good choice.
-   - Second, square it since the frame for paper picture is square. With a non-square picture, the display could be weird. Squaring an image could be achieved easily by [this website](https://squaremyimage.com).
-   - Third, upload the picture to a picture bed, so that you can get a public link for it, which can be used in the `image` field. A starter friendly picture bed is [here](https://smms.app). Be sure to use the **Image URL** rather than links in other tabs. ![image-url](_fig/pic-bed-pic-url.png)
+   - The picture adding guide of the original template is [here](https://github.com/manubot/catalog#thumbnail-guidelines) and [here](https://github.com/greenelab/lab-website-template/wiki/Tips).
+   - Here is how I do it:
+     1. Select a striking picture of your paper.
+     2. Square the picture for better display on the webpage by this [online tool](https://squaremyimage.com).
+     3. Upload the picture to a picture bed like [SM.MS](https://smms.app).
+     4. Copy the link of the picture.
+     5. Paste the link to the YAML file.
+   
+   Be sure to use link for the **actual raw image**, rather than links in other tabs. The raw image link in [SM.MS](https://smms.app) can be found in `Image URL` tab. ![image-url](_fig/pic-bed-pic-url.png)
 
 ### Submission Form Related
 1. Why use Pull Request instead of using questionnaires like Wenjuanxing?
