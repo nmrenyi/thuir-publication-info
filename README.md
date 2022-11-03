@@ -18,7 +18,8 @@ The image above shows the basic layout of the publication page. Publications are
 Although seven parts are displayed in this block, we do not need to fill them all. Actually, the minimal requirement for each paper is only the DOI of the paper. The template will get the title, author list, conference/journal, publication date automatically. Adding picture link and GitHub repository link are more than welcome!
 
 ## YAML File for Publication Info
-Here is the corresponding YAML file for the layout shown above:
+Here is the content of YAML file for [publications in 2019](https://thuir.github.io/lab-website-template/publications/#2019). You can also find this YAML file in [sources-2019.yaml](https://github.com/THUIR/lab-website-template/blob/main/_data/sources-2019.yaml).
+
 ```yaml
 - id: doi:10.1145/3331184.3331192
   image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
@@ -28,16 +29,8 @@ Here is the corresponding YAML file for the layout shown above:
   _title: "An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation"
   _first_author: Chong Chen
 ```
-This example seems to be complicated because it comes from the orginal repository, aiming to show the functionality of the template. But the ONLY compulsory item is the `id` field, which is the DOI of your paper. `image` and `repo` are recommended since the default image for your paper is quite ordinary if you do not specify an image, and `repo` is essential for reproducibility.
 
-A recommended template for a single paper is as follows:
-```yaml
-- id: doi:10.1145/3331184.3331192
-  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
-  repo: chenchongthu/ENMF
 
-```
-It is quite an easy way out for adding a paper, with the corresponding layout shown below:
 ![enmf-block-demo](_fig/publication-enmf-block.png)
 
 ## Submission Guide
