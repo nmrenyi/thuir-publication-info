@@ -42,12 +42,10 @@ To ensure convenience of both fellows and website maintainers, we decide to use 
 
 Here are some basic steps to submit your publication info:
 
-1. Fork [this repository](https://github.com/nmrenyi/thuir-publication-info) to your own GitHub account.
-2. Add your own YAML file with your publication information in it.
-   - Your YAML file should be named as `<name><the-year-you-enter-THUIR><phd/master>.yaml`, like `chenchong2017phd.yaml`.
-   - Your YAML file should be placed in the folder `info/`, the save folder with `chenchong2017phd.yaml`.
+1. Fork the [lab-website-template](https://github.com/THUIR/lab-website-template) to your own GitHub account.
+2. Locate the YAML file for the year you want to add your paper to. For example, if you want to add a paper published in 2021, you should locate [sources-2022.yaml](https://github.com/THUIR/lab-website-template/blob/main/_data/sources-2022.yaml).
 3. Commit and push your changes to your own repository.
-4. Raise a Pull Request to the `main` branch of [this repository](https://github.com/nmrenyi/thuir-publication-info).
+4. Raise a Pull Request to the `main` branch of [this repository](https://github.com/THUIR/lab-website-template).
 5. Wait for the maintainers to review your PR(Pull Request). If everything goes well, your PR will be merged into the main branch. Otherwise, the maintainer will reject your PR and you will be notified to make some changes.
 
 ## QA
