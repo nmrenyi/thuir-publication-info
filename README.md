@@ -69,7 +69,7 @@ Here are some basic steps to submit your publication info:
 2. Is this the only chance to submit my publication info? Can I make modifications and additions later?
    - Certainly you can modify your information and insert more afterwards. If you're quite in a hurry these days, you may just submit DOI number for your papers. You can make further modifications with pull request later on. If spare, however, submitting DOI, `_title`, `_first_author`, image and GitHub repository link in one shot could be cool!
 3. What is the benefit for all these efforts?
-   - Build a professional website for THUIR, which benefits everyone, including yourself.
+   - Build a academic website for THUIR, which benefits everyone, including yourself.
 
 ## Contact
 If you have any questions, please contact REN Yi, by WeChat or [Email](mailto:renyi1006@gmail.com). Any suggestions or questions are welcome!
