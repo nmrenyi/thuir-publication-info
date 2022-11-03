@@ -58,8 +58,7 @@ Here are some basic steps to submit your publication info:
      1. Select an illustrative picture of your paper.
      2. Square the picture for better display on the webpage by this [online tool](https://squaremyimage.com).
      3. Upload the picture to a picture bed like [SM.MS](https://smms.app).
-     4. Copy the link of the picture.
-     5. Paste the link to the YAML file.
+     4. Copy the link of the picture and paste it to the YAML file.
    
    Be sure to use link for the **actual raw image**, rather than links in other tabs. The raw image link in [SM.MS](https://smms.app) can be found in `Image URL` tab. ![image-url](_fig/pic-bed-pic-url.png)
 
