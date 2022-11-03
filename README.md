@@ -52,7 +52,7 @@ Here are some basic steps to submit your publication info:
 ### Content Related
 1. How can I get DOI for my paper?
    - On ACM Digital Library website or arXiv.
-2. How can I get the image link for my paper, with a image on my computer locally?
+2. How can I get the image link for my paper?
    - The picture adding guide of the original template is [here](https://github.com/manubot/catalog#thumbnail-guidelines) and [here](https://github.com/greenelab/lab-website-template/wiki/Tips).
    - Here is how I do it:
      1. Select an illustrative picture of your paper.
