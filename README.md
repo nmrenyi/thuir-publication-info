@@ -72,4 +72,4 @@ Here are some basic steps to submit your publication info:
    - Build a academic website for THUIR, which benefits everyone, including yourself.
 
 ## Contact
-If you have any questions, please contact REN Yi, by WeChat or [Email](mailto:renyi1006@gmail.com). Any suggestions or questions are welcome!
+If you have any question, please contact REN Yi, by WeChat or [Email](mailto:renyi1006@gmail.com). Any suggestions or questions are welcome!
